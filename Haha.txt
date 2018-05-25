@@ -1,8 +1,1 @@
-<<<<<<< HEAD
-Willy push
-=======
-Teste
-abcdasks
->>>>>>> origin/master
-
-lalalala
+New
